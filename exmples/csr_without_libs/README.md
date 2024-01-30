@@ -1,0 +1,1 @@
+### Client-Side Rendering with Vite and without any additional libraries

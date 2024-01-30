@@ -1,0 +1,1 @@
+### React Server Components (RSCs) compared to the Server-Side Rendering and Client-Side Rendering

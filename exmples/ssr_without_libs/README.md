@@ -1,0 +1,1 @@
+### Server-Side Rendering with Next.js and without any additional libraries
